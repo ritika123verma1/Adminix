@@ -1,9 +1,8 @@
-# Adminix Admin Dashboard
+# Adminix 
 
 **Author: Ritika**
 
-Adminix is a modern Bootstrap 5 admin dashboard built using the powerful
-Gentelella UI foundation. This project focuses on clean design,
+Adminix is a modern Bootstrap 5 admin dashboard . This project focuses on clean design,
 responsive layouts, and a modular structure suitable for admin panels,
 analytics dashboards, and back‑end web applications.
 
